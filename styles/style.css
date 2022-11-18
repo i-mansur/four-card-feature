@@ -70,6 +70,12 @@ img {
 
     margin: 1.5rem 0;
 }
+.card img{
+    width: 70px;
+    margin-left: 70%;
+    margin-top: 10%;
+}
+
 .card:nth-child(2) {
     border-top: 4px solid #57CBCA;
 }
